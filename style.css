@@ -25,10 +25,6 @@ p {
     line-height: 1.5;
 }
 
-body {
-    display: flex;
-}
-
 .sidebar {
     height: 100vh; /* Full height of the viewport */
     width: 200px; /* Sidebar width */
