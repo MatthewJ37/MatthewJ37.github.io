@@ -1,0 +1,4 @@
+# VS Code folder
+.history/
+# Dependencies
+node_modules/
