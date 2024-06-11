@@ -48,8 +48,3 @@ p {
 .sidebar a:hover {
     background-color: #575757; /* Dark grey */
 }
-
-.container {
-    margin-left: 200px; /* Same as the width of the sidebar */
-    padding: 0px 10px;
-}
