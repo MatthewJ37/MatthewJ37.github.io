@@ -4,6 +4,11 @@ body {
     background-color: #027c92;
     display: flex;
     justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     background-image: linear-gradient(to bottom right, teal, orange);
 }
 
@@ -41,7 +46,7 @@ p {
     justify-content: flex-start;
     align-items: center;
     padding-left: 20px;
-    margin-top: 60px;
+    margin-bottom: 60px;
 }
 
 .toolbar a {
