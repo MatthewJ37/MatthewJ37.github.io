@@ -4,6 +4,8 @@ body {
     background-color: #027c92;
     display: flex;
     justify-content: center;
+    background-color: red; /* For browsers that do not support gradients */
+    background-image: linear-gradient(to bottom right, red, yellow);
 }
 
 .container {
@@ -40,7 +42,7 @@ p {
     justify-content: flex-start;
     align-items: center;
     padding-left: 20px;
-    margin-bottom: 60px;
+    margin-top: 60px;
 }
 
 .toolbar a {
