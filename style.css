@@ -27,6 +27,7 @@ p {
 }
 
 /* Sidebar Styles */
+
 .toolbar {
     height: 60px;
     width: 100%;
@@ -39,6 +40,7 @@ p {
     justify-content: flex-start;
     align-items: center;
     padding-left: 20px;
+    margin-bottom: 60px;
 }
 
 .toolbar a {
