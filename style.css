@@ -4,8 +4,7 @@ body {
     background-color: #027c92;
     display: flex;
     justify-content: center;
-    background-color: red; /* For browsers that do not support gradients */
-    background-image: linear-gradient(to bottom right, red, yellow);
+    background-image: linear-gradient(to bottom right, teal, orange);
 }
 
 .container {
