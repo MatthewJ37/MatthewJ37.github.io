@@ -1,7 +1,7 @@
 /* Main Content Styles */
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffa600;
+    background-color: #027c92;
     display: flex;
     justify-content: center;
 }
@@ -10,7 +10,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #027c92;
+    background-color: #c27e00;
     border: 1px solid #fdc200;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -35,7 +35,7 @@ p {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: #15008a;
     display: flex;
     justify-content: flex-start;
     align-items: center;
