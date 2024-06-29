@@ -52,7 +52,7 @@ p {
     padding: 10px 15px;
     text-decoration: none;
     font-size: 18px;
-    color: black;
+    color: #333;
     display: inline-block;
 }
 
@@ -60,9 +60,15 @@ p {
     background-color: #575757;
 }
 
+.picture_container {
+    position:absolute;
+    padding-top: 60px;
+    top:20px;
+    right:20px;
+}
 
 .self_portrait {
-    width: 40%;
+    width: 30%;
     height: auto;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
