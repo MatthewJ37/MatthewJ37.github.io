@@ -61,14 +61,18 @@ p {
 }
 
 .picture_container {
+    position: relative;
+    padding-top: 80px;
+}
+
+.picture_container img {
     position: absolute;
-    padding-top: 60px;
-    top: 20px;
-    right: 20px;
-    float: right;
+    top: 0px;
+    right: 0px;
 }
 
 .self_portrait {
+    position: relative;
     width: 30%;
     height: auto;
     border-radius: 5px;
