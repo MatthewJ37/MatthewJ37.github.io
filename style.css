@@ -61,10 +61,11 @@ p {
 }
 
 .picture_container {
-    position:absolute;
+    position: absolute;
     padding-top: 60px;
-    top:20px;
-    right:20px;
+    top: 20px;
+    right: 20px;
+    float: right;
 }
 
 .self_portrait {
