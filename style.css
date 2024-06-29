@@ -52,7 +52,7 @@ p {
     padding: 10px 15px;
     text-decoration: none;
     font-size: 18px;
-    color: white;
+    color: black;
     display: inline-block;
 }
 
@@ -62,7 +62,7 @@ p {
 
 
 .self_portrait {
-    width: 25%;
+    width: 40%;
     height: auto;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
