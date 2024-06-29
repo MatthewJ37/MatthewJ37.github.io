@@ -62,7 +62,7 @@ p {
 
 
 .self_portrait {
-    max-width: 10%;
+    width: 10%;
     height: auto;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
