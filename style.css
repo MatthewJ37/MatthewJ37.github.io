@@ -78,3 +78,39 @@ p {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
+
+/* Project Container */
+
+.project_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* Project classes */
+
+.project {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #F9F9F9;
+    border: 1px solid #D1D1D1;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.project h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.project p {
+    color: #313131;
+    line-height: 1.5;
+}
+
+.project img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
