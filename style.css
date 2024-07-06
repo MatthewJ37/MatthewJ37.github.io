@@ -13,6 +13,8 @@ body {
 }
 
 .container {
+    max-height: 800px;
+    margin: 0 auto;
     padding: 20px;
     background-color: #80C4E9;
     border: 1px solid #604CC3;
